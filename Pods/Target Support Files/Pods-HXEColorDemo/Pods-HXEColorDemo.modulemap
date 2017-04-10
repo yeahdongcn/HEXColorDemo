@@ -1,0 +1,6 @@
+framework module Pods_HXEColorDemo {
+  umbrella header "Pods-HXEColorDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
