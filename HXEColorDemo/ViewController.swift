@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import HEXColor
+import UIColor_Hex_Swift
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
